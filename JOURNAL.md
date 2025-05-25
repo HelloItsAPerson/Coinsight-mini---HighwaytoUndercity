@@ -32,4 +32,8 @@ Then I started making a draft 3d model. After about 40 minutes it turned out, it
 
 # May 25th - 3d modelling (again)
 
-So today, I guess I'll just be doing more 3d modelling. Will update soon...
+So today, I guess I'll just be doing more 3d modelling. 
+
+My bad, I need a light as well, otherwise the camera won't be able to see anything.
+
+Will update soon...
