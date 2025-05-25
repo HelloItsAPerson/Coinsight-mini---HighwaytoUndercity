@@ -5,7 +5,7 @@ Description: "A small (if not smallest) coin counter and sorter."
 Created at: "2024-05-24"
 ---
 
-# May 23rd - Researching & 3d modelling (A little)
+# May 24th - Researching & 3d modelling (A little)
 As I'm in Australia, I'll be making this for AUD as I won't be able to have access to other coin currency's to test with. So to start, I just found a graphic of the AUD coin sizes.
 
 ![image](https://github.com/user-attachments/assets/19fdd23f-1123-4543-a680-d3222792f133)
@@ -26,4 +26,10 @@ Then I started making a draft 3d model. After about 40 minutes it turned out, it
 
 ![image](https://github.com/user-attachments/assets/48445018-0feb-4bb4-bbf3-8ef978b8b57b)
 
-# May 24th - 3d modelling (again)
+**Time spent: 1h 47min**
+
+**Total time spent: 1h 47min**
+
+# May 25th - 3d modelling (again)
+
+So today, I guess I'll just be doing more 3d modelling. Will update soon...
