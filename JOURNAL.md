@@ -36,4 +36,26 @@ So today, I guess I'll just be doing more 3d modelling.
 
 My bad, I need a light as well, otherwise the camera won't be able to see anything.
 
-Will update soon...
+I've also made like a gear thing to make the coins feed in. Here's what I ended up with today. Getting the holes right for the coins is very fiddly and time consuming.
+
+![image](https://github.com/user-attachments/assets/755cba72-3e30-4bea-bb45-d309d1f8d76f)
+
+![image](https://github.com/user-attachments/assets/ff2c1441-c299-4e1e-b2d6-6d54fc33f136)
+
+**Time spent: 1h 23min**
+
+**Total time spent: 3h 10min**
+
+# May 26th - 3d modelling (still)
+
+I have homework so probably can't spend too much time today.
+I've finished all the holes for the parts the coins drop into. I figuired it was easier to do the holes when the base was flat, not in position. Other than that, didn't do much.
+
+![image](https://github.com/user-attachments/assets/8885b110-f53f-4bf2-a0c2-b3c5d3e0a906)
+
+**Time spent: 37min**
+
+**Total time spent: 3h 47min**
+
+# May 27 - 3d modelling (for what seems like eternity)
+
