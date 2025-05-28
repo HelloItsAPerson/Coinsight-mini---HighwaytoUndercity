@@ -57,5 +57,14 @@ I've finished all the holes for the parts the coins drop into. I figuired it was
 
 **Total time spent: 3h 47min**
 
-# May 27 - 3d modelling (for what seems like eternity)
+# May 27 - 3d modelling (for what seems like eternity) and a little bit of research
 
+I really didn't do much today. I put the coin sorter part in position and will do the angles tomorrow.
+
+![image](https://github.com/user-attachments/assets/a0e91a66-4abe-48c0-adf4-f702facc684d)
+
+After some time thinking and researching I've decided it will be easier to load cells (basically scales) to measure how many coins rather then trying to line up the coins for the photo-interrupter. The current dimensions are about 10x30x6cm which is still smaller than any other. I'm designing this to be portable, so if I have the space, I might put a small battery or powerbank to make it easier.
+
+**Time spent: 25min**
+
+**Total time spent: 4h 12min**
